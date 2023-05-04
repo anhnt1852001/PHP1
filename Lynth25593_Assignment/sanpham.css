@@ -1,0 +1,25 @@
+.col-lg-2>img {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 2px;
+}
+
+.col-lg-2 {
+    border-radius: 3%;
+    border: 1px solid black;
+    margin-left: 6%;
+    margin-top: 20px;
+}
+.fas{
+    width: 8%;
+}
+.fas:hover{
+color:#9EA7E1;
+}
+.btn-secondary{
+margin-left: 67%;
+}
+p{
+    font-weight: bold;
+    color: red;
+}

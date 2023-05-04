@@ -1,0 +1,22 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 250px;
+    height: 300px;
+    text-align: center;
+    padding-top: 15px;
+    display: inline-block;
+}
+img{
+    width: 150px;
+    height: 200px;
+}
+
+label,input,button{
+    display: block;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 20px;
+}
